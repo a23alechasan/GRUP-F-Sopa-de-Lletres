@@ -14,4 +14,19 @@ public class SopaDeLLetres {
         >while (!true) s'acaba*/
 
     }
+
+    public char[][] convertirMatriz() {
+        String StringNombre="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
+        char[][] matriz = new char[10][10];
+        int posicion = 0;
+
+        for (int fila = 0; fila < matriz.length; fila++) {
+            for (int col = 0; col < matriz[fila].length; col++) {
+                matriz[fila][col] = StringNombre.charAt(posicion);
+                posicion++;
+            }
+        }
+        return matriz;
+
+    }
 }
