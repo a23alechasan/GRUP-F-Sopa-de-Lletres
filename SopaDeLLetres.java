@@ -1,6 +1,8 @@
 public class SopaDeLLetres {
     public static void main(String[] args) {
-        /*>demanar lletres
+        /*
+        (Fer Funcio main)
+        >demanar lletres
         >convertir-les a matriu 10x10
         >imprimir matriu
         >solicitar paraules while (!true)
