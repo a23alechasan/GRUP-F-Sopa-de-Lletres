@@ -1,10 +1,10 @@
 public class SopaDeLLetres {
     public static void main(String[] args) {
         /*
-        (Fer Funcio main)
-        >demanar lletres
-        >convertir-les a matriu 10x10
-        >imprimir matriu
+        (Fer Funcio main) -Alex
+        >demanar lletres (min max 100) -Iker (demanarLletres)
+        >convertir-les a matriu 10x10 -Marc (lletresAMatriu)
+        >imprimir matriu -Adrian (ImprimirMatriu)
         >solicitar paraules while (!true)
         -->descartar si la paraula introduida < 3 caracters i > 10 caracters
         -->detectar si la paraula introduida es troba (horitzontal)
