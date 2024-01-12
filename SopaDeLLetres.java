@@ -2,23 +2,6 @@ import java.util.Scanner;
 
 public class SopaDeLLetres {
     public static void main(String[] args){
-        /*
-        (Fer Funcio main) -Alex
-        >demanar lletres (min max 100) -Iker (demanarLletres)
-        >convertir-les a matriu 10x10 -Marc (lletresAMatriu)
-        >imprimir matriu -Adrian (imprimirMatriu)
-        >solicitar paraules  -Alex (solicitarParaula)
-        while (paraulesContades < 5)
-        -->descartar si la paraula introduida < 3 caracters i > 10 caracters -??? (esValida)
-        -->separar la paraula en caracters -??? (separarParaula)
-        -->detectar si la paraula introduida es troba (horitzontal) -??? (detectarHoritzontal)
-        -->detectar si la paraula introduida es troba (vertical) -??? (detectarVertical)
-        -->pintar paraules de vermell quan son trobades -??? (pintarParaules)
-        -->imprimir paraules (noves o no) -Adrian (imprimirMatriu(reciclada))
-        --> augmentar paraulesContades si s'han trobat.
-        >while s'acaba quan s'han trobat més de 5 paraules
-        */
-
         System.out.println("Sisplau, introdueix les lletres de la sopa de lletres");
         int paraulesContades = 0;
         String lletres = demanarLletres();
