@@ -17,10 +17,10 @@ public class SopaDeLLetres {
             }
 
         }
-        return convertirLletresMatriz(lletres);
+        return convertirLletresMatriu(lletres);
     }
 
-    public static char[][] convertirLletresMatriz(String lletres) {
+    public static char[][] convertirLletresMatriu(String lletres) {
         char[][] matriu = new char[10][10];
         int index = 0;
 
