@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b39231e-2796-4758-9e11-d0f579eeddfd" name="Changes" comment="intentat fer decetar horitzontal" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Alex" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2anvtosg3j04lPPksnFbP43ksMi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SopaDeLLetres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SopaDeLLetres" />
+      <module name="GRUP-F-Sopa-de-Lletres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SopaDeLLetres" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b39231e-2796-4758-9e11-d0f579eeddfd" name="Changes" comment="" />
+      <created>1704967375195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704967375195</updated>
+    </task>
+    <task id="LOCAL-00001" summary="resum funcions">
+      <option name="closed" value="true" />
+      <created>1704967524009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704967524009</updated>
+    </task>
+    <task id="LOCAL-00002" summary="resum funcions (m'he equivocat de nom)">
+      <option name="closed" value="true" />
+      <created>1704967587922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704967587922</updated>
+    </task>
+    <task id="LOCAL-00003" summary="resum funcions (m'he equivocat de nom)">
+      <option name="closed" value="true" />
+      <created>1704967699677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704967699677</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aquesta si">
+      <option name="closed" value="true" />
+      <created>1704967756948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704967756948</updated>
+    </task>
+    <task id="LOCAL-00005" summary="repartició 1">
+      <option name="closed" value="true" />
+      <created>1704968224195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704968224195</updated>
+    </task>
+    <task id="LOCAL-00006" summary="estructura feta">
+      <option name="closed" value="true" />
+      <created>1704971622387</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704971622387</updated>
+    </task>
+    <task id="LOCAL-00007" summary="estructura retocada, afegides algunes funcions">
+      <option name="closed" value="true" />
+      <created>1705046113200</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705046113200</updated>
+    </task>
+    <task id="LOCAL-00008" summary="codi més net">
+      <option name="closed" value="true" />
+      <created>1705046217497</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705046217497</updated>
+    </task>
+    <task id="LOCAL-00009" summary="intentat fer decetar horitzontal">
+      <option name="closed" value="true" />
+      <created>1705568071384</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705568071384</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="resum funcions" />
+    <MESSAGE value="resum funcions (m'he equivocat de nom)" />
+    <MESSAGE value="aquesta si" />
+    <MESSAGE value="repartició 1" />
+    <MESSAGE value="estructura feta" />
+    <MESSAGE value="estructura retocada, afegides algunes funcions" />
+    <MESSAGE value="codi més net" />
+    <MESSAGE value="intentat fer decetar horitzontal" />
+    <option name="LAST_COMMIT_MESSAGE" value="intentat fer decetar horitzontal" />
+  </component>
+</project>
