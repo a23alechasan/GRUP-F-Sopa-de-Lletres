@@ -16,20 +16,12 @@ public class SopaDeLLetres {
                 paraula = solicitarParaula();
                 lletresParaula = separarParaula(paraula);
             }
-            //int coordenades[1][1] = detectarHoritzontal(matriu, lletresParaula);
-            //detectarVertical = (lletresParaula);
-
-            /*
-            Aquestes dues funcions han de fer les següents coses:
-            - Comprovar si la paraula es troba
-            -Extraure les coordenades de la lletra d'inici i la lletra del final
-            en format coordenades[xInici,xFinal][yInici,yFinal]
-             */
-
+            //int[][] coordenades = detectarHoritzontal(matriu, lletresParaula);
+            //int[][] coordenades = detectarVertical(matriu, lletresParaula);
             //if (coordenades[0][0] != void){
                 //pintarParaules(coordenades[0[0], coordenades[1][1]);
                 //imprimirMatriu(matriu);
-                //paraulesContades++;
+                paraulesContades++;
             //} else { 
                 //imprimirMatriu(matriu);
             //}
@@ -55,7 +47,7 @@ public class SopaDeLLetres {
                 int contador = 0;
                 if (sopa[x][y] == paraula[0]){
                     for (int i = paraula.length; i > 0; i--){
-                        if (sopa[x+i][y] == paraula[i]){
+                        if (sopa[x+i][y] == paraula[i-1]){
                             contador++;
                         }
                         else {
