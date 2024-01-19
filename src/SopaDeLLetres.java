@@ -1,5 +1,6 @@
 public class SopaDeLLetres {
     public static void main(String[] args) {
+        System.out.println("test");
         /*
         (Fer Funcio main) -Alex
         >demanar lletres (min max 100) -Iker (demanarLletres)
